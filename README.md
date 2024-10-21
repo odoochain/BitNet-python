@@ -3,6 +3,7 @@
 # BitNet
 ![bitnet](/bitnet.png)
 PyTorch Implementation of the linear methods and model from the paper "BitNet: Scaling 1-bit Transformers for Large Language Models"
+PyTorch 线性方法和模型的实现，摘自论文 “BitNet：为大型语言模型缩放 1 位转换器”
 
 [Paper link:](https://arxiv.org/pdf/2310.11453.pdf)
 
