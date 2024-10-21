@@ -3,3 +3,5 @@ einops
 zetascale==2.7.3
 pyopenssl==24.2.1
 requests>=2.32.2
+matplotlib==3.9.2
+evaluate==0.4.3
