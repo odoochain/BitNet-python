@@ -1,3 +1,5 @@
 torch
 einops
 zetascale==2.7.3
+pyopenssl==24.2.1
+requests>=2.32.2
